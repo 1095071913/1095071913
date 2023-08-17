@@ -34,11 +34,10 @@
 
 # Hi there 👋
 <br>
-<br>
 - 🍓 Gitee：https://gitee.com/xmaozi
 <br>
-- 🍓 GitHub：https://github.com/1095071913
 <br>
+- 🍓 GitHub：https://github.com/1095071913
 <br>
 
 # My Github Status 🦸
