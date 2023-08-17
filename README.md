@@ -16,6 +16,7 @@
     <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://gitee.com/xmaozi"><img src="[https://img.shields.io/badge/CSDN-论坛-c32136](https://pic4.zhimg.com/v2-77b1a31dc62d9e00abd0ea6cdaba5c83_xs.jpg?source=172ae18b)" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=1095071913&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
