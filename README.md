@@ -20,6 +20,6 @@
 ### 开发语言
 [![My Skills](https://skillicons.dev/icons?i=ai,java,spring,mysql,redis,linux,docker,kubernetes,jenkins,ansible,grafana,prometheus)](https://github.com/eryajf)
 
-### 架构方向
+### 技术架构方向
 <img src="architecture_diagram.png" alt="null" style="zoom:50%;" />
 
