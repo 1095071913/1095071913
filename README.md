@@ -15,13 +15,11 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-
 <br>
-<br>
-
-### 代码仓库
-- 🎉 [Gitee](https://gitee.com/xmaozi)
-- 🤖 [GitHub](https://github.com/1095071913)
 
 ### 开发语言
 [![My Skills](https://skillicons.dev/icons?i=ai,java,spring,mysql,redis,linux,docker,kubernetes,jenkins,ansible,grafana,prometheus)](https://github.com/eryajf)
+
+### 架构方向
+<img src="architecture_diagram.png" alt="null" style="zoom:50%;" />
+
