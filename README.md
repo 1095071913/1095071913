@@ -20,6 +20,8 @@
 ### 开发语言
 [![My Skills](https://skillicons.dev/icons?i=ai,java,spring,mysql,redis,linux,docker,kubernetes,jenkins,ansible,grafana,prometheus)](https://github.com/eryajf)
 
+### AI开发工具
+Cluade Code + Idea Claude Code Gui + GLM Gemini Claude Model
+
 ### 技术架构方向
 <img src="architecture_diagram.png" alt="null" style="zoom:50%;" />
-
