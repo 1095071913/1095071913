@@ -44,28 +44,31 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<!-- ═══════════════════ 📊 数据核心 · 赛博数据面板 ═══════════════════ -->
+<!-- ═══════════════════ 📊 数据核心 · 全息数据穹顶 ═══════════════════ -->
 ## 📊 数据核心 · Cyber Stats Terminal
 
+<!-- ⚡ 能量三核 · 深空黑底 × 霓虹定制配色 -->
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1095071913&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&icon_color=00E5FF&title_color=00E5FF&text_color=C9D1D9&ring_color=00E5FF" alt="GitHub Stats" />&emsp;
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=1095071913&show_icons=true&include_all_commits=true&count_private=true&line_height=26&bg_color=0D1117&hide_border=true&title_color=00E5FF&icon_color=FF2ED1&text_color=C9D1D9&ring_color=00E5FF&border_radius=16" alt="Energy Core" />&emsp;
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=1095071913&theme=neon-dark&hide_border=true" alt="Streak Stats" />&emsp;
+  <img height="185" src="https://streak-stats.demolab.com?user=1095071913&hide_border=true&background=0D1117&border=00D4FF&ring=00E5FF&fire=FF2ED1&currStreakNum=FFFFFF&currStreakLabel=00E5FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=7D8590" alt="Streak Core" />&emsp;
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1095071913&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00E5FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1095071913&layout=donut&count_private=true&bg_color=0D1117&hide_border=true&title_color=00E5FF&icon_color=FF2ED1&text_color=C9D1D9&langs_count=8&border_radius=16" alt="Language Core" />
 
 </div>
 
+<!-- 📈 遥测波形 · 贡献活动能量流 -->
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=1095071913&bg_color=0D1117&color=00E5FF&line=00D4FF&point=FF2ED1&area=true&area_color=00D4FF&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=1095071913&title=%E2%9A%A1%20Telemetry%20Stream%20%C2%B7%20%E9%81%A5%E6%B5%8B%E6%B3%A2%E5%BD%A2&bg_color=0D1117&color=00E5FF&line=00D4FF&point=FF2ED1&area=true&area_color=0D3B52&hide_border=true" alt="Activity Graph" />
 
 </div>
 
+<!-- 🏆 成就矩阵 · 高阶奖杯墙 -->
 <div align="center">
 
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=1095071913&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophy" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=1095071913&theme=onedark&no-frame=true&no-bg=true&column=8&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophy Wall" />
 
 </div>
 
