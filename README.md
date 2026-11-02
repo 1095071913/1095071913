@@ -35,15 +35,6 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ═══════════════════ 🐍 代码能量矩阵 · 贪吃蛇贡献图 ═══════════════════ -->
-## 🐍 代码能量矩阵 · Contribution Matrix
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 <!-- ═══════════════════ 📊 数据核心 · 全息驾驶舱 ═══════════════════ -->
 ## 📊 数据核心 · Cyber Stats Terminal
 
