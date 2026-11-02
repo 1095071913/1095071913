@@ -44,33 +44,53 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<!-- ═══════════════════ 📊 数据核心 · 全息数据穹顶 ═══════════════════ -->
+<!-- ═══════════════════ 📊 数据核心 · 全息驾驶舱 ═══════════════════ -->
 ## 📊 数据核心 · Cyber Stats Terminal
 
-<!-- ⚡ 能量三核 · 深空黑底 × 霓虹定制配色 -->
+<!-- ⌨️ 终端启动动画 · 链路已建立 -->
 <div align="center">
-
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=1095071913&show_icons=true&include_all_commits=true&count_private=true&line_height=26&bg_color=0D1117&hide_border=true&title_color=00E5FF&icon_color=FF2ED1&text_color=C9D1D9&ring_color=00E5FF&border_radius=16" alt="Energy Core" />&emsp;
-
-  <img height="185" src="https://streak-stats.demolab.com?user=1095071913&hide_border=true&background=0D1117&border=00D4FF&ring=00E5FF&fire=FF2ED1&currStreakNum=FFFFFF&currStreakLabel=00E5FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=7D8590" alt="Streak Core" />&emsp;
-
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1095071913&layout=donut&count_private=true&bg_color=0D1117&hide_border=true&title_color=00E5FF&icon_color=FF2ED1&text_color=C9D1D9&langs_count=8&border_radius=16" alt="Language Core" />
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=600&color=00E5FF&center=true&vCenter=true&width=680&lines=%3E%3E+DATA+CORE+v2.077+%C2%B7+TELEMETRY+LINK+ESTABLISHED+%E2%9C%93" alt="terminal" />
+  </a>
 </div>
 
-<!-- 📈 遥测波形 · 贡献活动能量流 -->
+<!-- ⚡ 生命体征 · 实时动态徽章矩阵（shields 实时拉取 GitHub API） -->
 <div align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=1095071913&title=%E2%9A%A1%20Telemetry%20Stream%20%C2%B7%20%E9%81%A5%E6%B5%8B%E6%B3%A2%E5%BD%A2&bg_color=0D1117&color=00E5FF&line=00D4FF&point=FF2ED1&area=true&area_color=0D3B52&hide_border=true" alt="Activity Graph" />
-
+  <a href="https://github.com/1095071913?tab=followers">
+    <img src="https://img.shields.io/github/followers/1095071913?style=for-the-badge&label=Followers&color=00E5FF&labelColor=0D1117" alt="Followers" />
+  </a>&emsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F1095071913&query=%24.public_repos&style=for-the-badge&label=Public%20Repos&color=FF2ED1&labelColor=0D1117" alt="Public Repos" />&emsp;
+  <a href="https://github.com/1095071913?tab=repositories">
+    <img src="https://img.shields.io/badge/Profile-On%20GitHub-FFFFFF?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub Profile" />
+  </a>
 </div>
 
-<!-- 🏆 成就矩阵 · 高阶奖杯墙 -->
+<br>
+
+<!-- 🔥 连击核心 · 品红金霓虹（streak-stats 实时数据） -->
 <div align="center">
-
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=1095071913&theme=onedark&no-frame=true&no-bg=true&column=8&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophy Wall" />
-
+  <img height="200" src="https://streak-stats.demolab.com?user=1095071913&hide_border=true&background=0D1117&border=FF2ED1&ring=FF2ED1&fire=FFD166&currStreakNum=FFFFFF&currStreakLabel=FF2ED1&sideNums=C9D1D9&sideLabels=C9D1D9&dates=7D8590" alt="Streak Core" />
 </div>
+
+<!-- 🌐 遥测网格 · 真实贡献能量场（ghchart 实时读取 GitHub 贡献数据） -->
+<div align="center">
+  <a href="https://github.com/1095071913">
+    <img width="100%" src="https://ghchart.rshah.org/00E5FF/1095071913" alt="Contribution Telemetry Grid" />
+  </a>
+</div>
+
+<!--
+  ⚠️ 备用组件：官方 github-readme-stats / activity-graph / trophy 公共实例
+  已限流（503）或转收费（402），服务恢复后可取消注释启用：
+
+  <img src="https://github-readme-stats.vercel.app/api?username=1095071913&show_icons=true&include_all_commits=true&count_private=true&line_height=26&bg_color=0D1117&hide_border=true&title_color=00E5FF&icon_color=FF2ED1&text_color=C9D1D9&ring_color=00E5FF&border_radius=16" alt="Energy Core" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1095071913&layout=donut-vertical&count_private=true&bg_color=0D1117&hide_border=true&title_color=00E5FF&icon_color=FF2ED1&text_color=C9D1D9&langs_count=8&border_radius=16" alt="Language Core" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1095071913&bg_color=0D1117&color=00E5FF&line=00D4FF&point=FFD166&area=true&area_color=0D2E52&hide_border=true" alt="Activity Graph" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=1095071913&theme=synthwave&no-frame=true&no-bg=true&row=1&column=8&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophy Wall" />
+-->
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
