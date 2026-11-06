@@ -14,14 +14,15 @@
 
 <!-- ═══════════════════ 🧬 身份档案 · Identity Matrix ═══════════════════ -->
 <div align="center">
+
   <a href="https://github.com/1095071913/1095071913/blob/release/wechat_qrcode.jpg">
     <img src="https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
-  </a>&emsp;
-  <img src="https://komarev.com/ghpvc/?username=1095071913&label=Visitors&color=00D4FF&style=for-the-badge" alt="访问量统计" />&emsp;
+  </a>
+  &emsp;
+  <a href="https://github.com/1095071913?tab=stars">
+    <img src="https://img.shields.io/github/stars/1095071913?label=Stars&color=FFD166&style=for-the-badge&logo=github" alt="总Star数" />
+  </a>
+  &emsp;
+  <img src="https://komarev.com/ghpvc/?username=1095071913&label=Visitors&color=00D4FF&style=for-the-badge" alt="访问量统计" />
+  
 </div>
-
-
-<!-- ═══════════════════ 🌊 时空曲率关闭 · 未来波动收尾 ═══════════════════ -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2EA,50:00D4FF,100:7B2FF7&height=130&section=footer" alt="footer" />
-</p>
