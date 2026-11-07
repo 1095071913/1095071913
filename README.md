@@ -1,6 +1,6 @@
 <!-- ═══════════════════ 🌌 时空曲率启动 · 未来已来 ═══════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D4FF,100:00F2EA&height=240&section=header&text=maozi-cloud&fontSize=54&fontColor=FFFFFF&fontAlignY=33" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D4FF,100:00F2EA&height=240&section=header&text=maozi%20cloud&fontSize=54&fontColor=FFFFFF&fontAlignY=33" alt="header" />
 </p>
 
 <!-- ═══════════════════ ⌨️ 霓虹多色打字机 · 神经链接中 ═══════════════════ -->
